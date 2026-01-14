@@ -1,0 +1,39 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+.venv/
+
+# Environment variables
+.env
+.env.local
+
+# Token files (old approach)
+tokens.json
+
+# Secure token storage
+.xero_app/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+logs/
+
+# Data files
+*.csv
+Xero_Data/
+# Secure token storage
+.xero_app/
